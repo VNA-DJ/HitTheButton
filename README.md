@@ -1,2 +1,2 @@
 # HitTheButton
-2015
+2015 amatörlük zamanında
